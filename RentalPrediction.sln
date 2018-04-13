@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RentalPrediction", "RentalPrediction\RentalPrediction.pyproj", "{5A6B978E-15CE-4D95-9AF0-276FA5AF60C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAEFC04B-A63B-4E5A-860C-013A7E43B718}"
+	ProjectSection(SolutionItems) = preProject
+		\\fldsvm_uvfile02\users$\hfleitas\SQL\SQLML-PredictSkiRentals.sql = \\fldsvm_uvfile02\users$\hfleitas\SQL\SQLML-PredictSkiRentals.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
