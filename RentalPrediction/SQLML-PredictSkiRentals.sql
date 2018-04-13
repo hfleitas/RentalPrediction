@@ -1,6 +1,6 @@
 EXEC sp_configure 'external scripts enabled', 1;
 RECONFIGURE WITH OVERRIDE
-
+-- https://microsoft.github.io/sql-ml-tutorials/python/rentalprediction/
 -- https://sqlchoice.blob.core.windows.net/sqlchoice/TutorialDB.bak
 
 USE master;
